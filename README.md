@@ -1,7 +1,7 @@
 # Sentiment and Emotion Mining of Anime Reviews from MyAnimeList
 *Advanced NLP pipeline for understanding audience emotions in anime reviews*
 
-## 🎯 Overview
+## Overview
 
 This project presents a comprehensive **sentiment analysis** and **fine-grained emotion mining** study on anime reviews from [MyAnimeList (MAL)](https://myanimelist.net/). 
 
@@ -11,7 +11,7 @@ We collected, annotated, and analyzed **1,592 reviews** spanning 1980–2026 usi
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Data Collection**: Automated scraping via Jikan MAL API (top + random anime)
 - **Annotation**: Manually labeled 3-class sentiment + Plutchik's 8 emotions (κ = 0.78)
@@ -24,7 +24,7 @@ We collected, annotated, and analyzed **1,592 reviews** spanning 1980–2026 usi
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - **68.3%** of reviews express **positive sentiment**
 - Strong correlation between textual sentiment and official MAL scores
